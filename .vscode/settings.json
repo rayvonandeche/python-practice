@@ -1,0 +1,12 @@
+{
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+
+  "editor.suggest.showSnippets": false,
+  "editor.suggest.showFunctions": false,
+  "editor.suggest.showMethods": false
+}
